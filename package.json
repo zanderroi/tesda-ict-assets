@@ -1,0 +1,15 @@
+{
+  "name": "tesda-ict-assets",
+  "version": "0.0.1",
+  "description": "The **TESDA-ICTO Asset Inventory & Lifespan Tracking System** is a centralized platform for managing ICT-related assets within TESDA.  \r It ensures **accurate tracking, accountability, and lifecycle monitoring** of assets — from acquisition to disposal — improving transparency, compliance, and operational efficiency.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
