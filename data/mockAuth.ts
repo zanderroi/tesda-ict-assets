@@ -174,6 +174,7 @@ export const getUserSession = (): AuthUser | null => {
 export const clearUserSession = (): void => {
   localStorage.removeItem("auth-user");
 };
+// testing purposes 
 
 // Demo account information for easy reference
 export const getDemoAccounts = () => {
