@@ -133,5 +133,24 @@ export const mockUsers: User[] = [
     notes: "Suspended pending investigation, access revoked",
     createdAt: "2022-07-12T15:00:00Z",
     updatedAt: "2024-07-20T09:00:00Z"
+  },
+  {
+    id: "8",
+    employeeId: "EMP007",
+    firstName: "Damn Daniel",
+    lastName: "Thompson",
+    email: "damn.thompson@company.com",
+    phone: "+1-555-0129",
+    department: "Information Technology",
+    position: "Network Administrator",
+    role: "manager",
+    status: "suspended",
+    location: "Office Floor 3",
+    manager: "Jane Smith",
+    startDate: "2022-07-12",
+    lastLogin: "2024-07-15T13:45:00Z",
+    notes: "Suspended pending investigation, access revoked",
+    createdAt: "2022-07-12T15:00:00Z",
+    updatedAt: "2024-07-20T09:00:00Z"
   }
 ];
